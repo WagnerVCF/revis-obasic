@@ -1,2 +1,2 @@
-# revis-obasic
+# revisãobasic
 Revisão Básica em PHP
